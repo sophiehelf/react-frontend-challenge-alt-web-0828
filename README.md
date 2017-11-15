@@ -10,7 +10,7 @@
 
 
 The API you will be using for this challenge is the following [https://murmuring-cliffs-39770.herokuapp.com/courses](https://murmuring-cliffs-39770.herokuapp.com/courses)
-Your objective for this challenge is to build out an application that will display all of the courses offered by Flatiron. It should display all of the information available via the API. Once you have created your application it is time to take it further. Build some filtering into your app so that you can filter by name, instructor and semester. As you will be buildiing this from scratch please use `create-react-app` to create your project.  
+Your objective for this challenge is to build out an application that will display all of the courses offered by Flatiron. It should display all of the information available via the API. Once you have created your application it is time to take it further. Build some filtering into your app so that you can filter by name, instructor and semester. 
 
 While building your application you should be considering the following:
  1. What containers/components should you build
