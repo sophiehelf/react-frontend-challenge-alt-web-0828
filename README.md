@@ -15,4 +15,6 @@ Your objective for this challenge is to build out an application that will displ
 While building your application you should be considering the following:
  1. What containers/components should you build
  2. Where should state be held and how should props be passed down
- 3. Where should you use presentational vs smart components. 
+ 3. Where should you use presentational vs smart components or class vs functional components
+ 4. Remember to always ask yourself the responsibility question. "Is this the responsibility of this component?"
+ 5. Good luck!
